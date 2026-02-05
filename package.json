@@ -1,0 +1,17 @@
+{
+  "name": "reb-automation-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "https": "^1.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
